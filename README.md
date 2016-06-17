@@ -1,2 +1,2 @@
 # NRF24LE1
-NRF24LE1 8050 MCU Experiments
+NRF24LE1 8051 MCU Experiments
